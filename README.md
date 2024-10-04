@@ -1,1 +1,1 @@
-This repository includes my Physics 305 projects and exercises.
+This repository includes my codes and the datasets I used for Physics 305 - Non-Gaussian Stochastic Processes with Memory.
